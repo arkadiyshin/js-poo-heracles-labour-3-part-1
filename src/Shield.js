@@ -5,3 +5,5 @@ class Shield {
     this.image = image;
   }
 }
+
+// module.exports = Shield;
