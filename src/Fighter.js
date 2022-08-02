@@ -57,5 +57,3 @@ class Fighter {
     return this.life > 0
   }
 }
-
-// module.exports = Fighter;
